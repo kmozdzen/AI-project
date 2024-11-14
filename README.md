@@ -24,6 +24,10 @@ Projekt OpenAI API do generowania kodu HTML na podstawie zadanego tekstu. Progra
    ```bash
    npm install
    ```
+
+   ```bash
+   npm install openai
+   ```
 ## Konfiguracja
    
 Ustaw swój klucz API OpenAI:
