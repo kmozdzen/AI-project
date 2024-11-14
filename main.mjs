@@ -27,7 +27,7 @@ i być odpowiednio uporządkowana z obrazami i podpisami. Pod każdym obrazem do
 • Przeanalizuj tekst pod kątem umieszczenia grafik w odpowiednich miejscach, tak żeby podkreślały jego znaczenie. 
 Oznaczając je z użyciem tagu <img> z atrybutem src="image_placeholder.jpg". Dodaj atrybut alt do
 każdego obrazka z dokładnie opisującym promptem, który możemy użyć do wygenerowania grafiki AI, która dokładnie pokaże znaczenie tekstu do którego się odnosi.
-Niech opis będzie szczegółowy. Umieść podpisy pod grafikami używając odpowiedniego tagu HTML.
+Niech atrybut alt będzie szczegółowy. Umieść podpisy pod grafikami używając odpowiedniego tagu HTML.
 • Brak kodu CSS ani JavaScript. Zwrócony kod powinien zawierać wyłącznie zawartość do
 wstawienia pomiędzy tagami <body> i </body>. Nie dołączaj znaczników <html>,
 <head> ani <body>.\n
