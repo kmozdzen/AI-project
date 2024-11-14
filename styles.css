@@ -18,27 +18,27 @@ body
     margin: 0;
 }
 
-#article-content h1, #article-content h2 
+h1, #article-content h2 
 {
     font-family: 'Roboto', sans-serif;
     color: #1D3557;
     margin-bottom: 15px;
 }
 
-#article-content h1 
+h1 
 {
     font-size: 2.5rem;
     text-align: center;
     margin-top: 0;
 }
 
-#article-content h2 
+h2 
 {
     text-align: center;
     margin-top: 0;
 }
 
-#article-content section 
+section 
 {
     margin-bottom: 40px;
     padding: 20px;
@@ -47,7 +47,7 @@ body
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
-#article-content p 
+p 
 {
     font-size: 1.1rem;
     margin-bottom: 15px;
