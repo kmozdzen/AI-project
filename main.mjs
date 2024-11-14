@@ -22,12 +22,12 @@ const conditions =
 `
 Warunki: 
 • Wygeneruj kod HTML dla poniższego tekstu, używając odpowiednich tagów HTML do strukturyzacji treści, w tym <h1> dla tytułu, 
-<section> dla każdego akapitu z tytułem, <p>, <figure>, <img>, <figcaption>, i <footer>. Zawartość powinna obejmować odpowiednią strukturę 
+<section> dla każdego akapitu z tytułem, <p>, <figure>, <img> i <figcaption>. Zawartość powinna obejmować odpowiednią strukturę 
 i być odpowiednio uporządkowana z obrazami i podpisami. Pod każdym obrazem dodaj <figcaption> z krótkim opisem.
-• Przeanalizuj tekst pod kątem umieszczenia grafik w odpowiednich miejscach, tak żeby podkreślały jego znaczeni. 
+• Przeanalizuj tekst pod kątem umieszczenia grafik w odpowiednich miejscach, tak żeby podkreślały jego znaczenie. 
 Oznaczając je z użyciem tagu <img> z atrybutem src="image_placeholder.jpg". Dodaj atrybut alt do
-każdego obrazka z dokładnym promptem, który możemy użyć do wygenerowania grafiki.
-Umieść podpisy pod grafikami używając odpowiedniego tagu HTML.
+każdego obrazka z dokładnie opisującym promptem, który możemy użyć do wygenerowania grafiki AI, która dokładnie pokaże znaczenie tekstu do którego się odnosi.
+Niech opis będzie szczegółowy. Umieść podpisy pod grafikami używając odpowiedniego tagu HTML.
 • Brak kodu CSS ani JavaScript. Zwrócony kod powinien zawierać wyłącznie zawartość do
 wstawienia pomiędzy tagami <body> i </body>. Nie dołączaj znaczników <html>,
 <head> ani <body>.\n
